@@ -9,15 +9,18 @@
     text-align: center;
     color: black;
 }
+
 .socialMediaIcon {
   margin-top: 5vh;
   cursor: pointer;
   padding-left: 10px;
   padding-right: 10px;
 }
+
 .container {
   margin-left: 15px;
 }
+
 @media (min-width: 100px) { 
   .title {
     font-size: 10vw;
@@ -27,10 +30,10 @@
     margin-top: 15vh;
   }
 }
+
 @media (min-width: 992px) { 
   .title {
     font-size: 6vw;
-
   }
   .socialMediaIcon {
     margin-top: 5vh;
