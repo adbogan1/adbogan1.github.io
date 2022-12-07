@@ -12,13 +12,15 @@
 .socialMediaIcon {
   margin-top: 5vh;
   cursor: pointer;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 .container {
   margin-left: 15px;
 }
 @media (min-width: 100px) { 
   .title {
-    font-size: 9vw;
+    font-size: 10vw;
     padding-top: 5vh;
   }
   .socialMediaIcon {
